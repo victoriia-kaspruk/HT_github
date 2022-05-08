@@ -1,0 +1,11 @@
+500 error in console 
+STR
+1.sent request 
+2.open browser
+3.go to console
+4. watch the screen
+
+Actual: 500 error is displayed
+Expected: 200 OK 
+
+Tested on dev / Chrom 
